@@ -15,5 +15,8 @@
     "postcss-nested": "^1.0.0",
     "postcss-simple-extend": "^1.0.0",
     "postcss-simple-vars": "^1.2.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.11"
   }
 }
